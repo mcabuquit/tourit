@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TourIt</string>
+    <string name="amount_hint_search">How much are you spending?</string>
+    <string name="luzon">Luzon</string>
+    <string name="visayas">Visayas</string>
+    <string name="mindanao">Mindanao</string>
+    <string name="take_me_btn">Take me</string>
+    <string name="location_label">Select location</string>
+</resources>

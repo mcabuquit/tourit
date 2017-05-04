@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "855984271457",
+    "firebase_url": "https://tourit-8dbf7.firebaseio.com",
+    "project_id": "tourit-8dbf7",
+    "storage_bucket": "tourit-8dbf7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:855984271457:android:54ce11327a9eff69",
+        "android_client_info": {
+          "package_name": "android.login.com.tourit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "855984271457-mv76hca6nh1not4a5o88kf3vp9e6e27h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3WYarrbKZXsAz22CLkHyYlAdFMVb6rzA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
